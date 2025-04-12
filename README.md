@@ -3,31 +3,12 @@
 1. Asegúrate de tener **Java** instalado y configurado en tu variable de entorno `PATH`.  
 2. Abre una terminal en la carpeta raíz del proyecto y compila los archivos:
 
-javac -d out src/**/*.java
-
-markdown
-Copiar
-Editar
+> javac -d out src/**/*.java
 
 3. Luego ejecuta la aplicación:
 
-java -cp out Main
+> java -cp out Main
 
-## 📋 Menú principal de la aplicación
-
-=== Task Manager ===
-
-Agregar Tarea
-
-Listar Tareas
-
-Editar Tarea
-
-Marcar/Desmarcar Tarea
-
-Eliminar Tarea
-
-Salir
 
 ## 🛠️ Análisis de Código con PMD
 
